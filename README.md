@@ -17,6 +17,8 @@
 <img align="left" alt="SAGA"   src="https://raw.githubusercontent.com/verst-ant/verst-ant/master/icons/saga.png" />
 <img align="left" alt="STYLED"   src="https://raw.githubusercontent.com/verst-ant/verst-ant/master/icons/styled.png" />
 </div>
+  <br/>
+  <br/>
 
 ### Project examples:
 
@@ -25,14 +27,17 @@
   <br/>
   <a href="https://github.com/verst-ant/Agency">📘<b>  Repository Link </b></a>
   <br/>
-  <a href="https://verst-ant.github.io/Agency/">👩‍🚀 <b> Github pages </b></a>
+  <a href="https://verst-ant.github.io/Agency/">📙 <b> Github pages </b></a>
   <br/>
   <a href="https://www.figma.com/file/fn7TA4MCrTj7Ad2dAPja7Q/Freebie-Agency?node-id=0%3A1">📃 <b> Design layout </b></a>
   <br/>
   <br/>
-  Working moments: 
-  3 sliders (Swiper) 
-  Adaptive Grid (5/11) 
+  Working moments:
+    <br/>
+  3 sliders (Swiper)
+    <br/>
+  Adaptive Grid (5/11)
+    <br/>
   Image gallery with filter
   <br/>
 
