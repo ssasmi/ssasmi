@@ -32,16 +32,22 @@
   <a href="https://www.figma.com/file/fn7TA4MCrTj7Ad2dAPja7Q/Freebie-Agency?node-id=0%3A1">📃 <b> Design layout </b></a>
   <br/>
   <br/>
-  Working moments:
     <br/>
-  3 sliders (Swiper)
+
+  *Working moments:*
     <br/>
-  Adaptive Grid (5/11)
+    3 sliders (Swiper)
     <br/>
-  Image gallery with filter
+    Adaptive Grid (5/11)
+    <br/>
+    Image gallery with filter
   <br/>
 
 </details>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
 
 [telegram]: https://t.me/verstantJob
 [mail]: mailto:verstantJob@gmail.com
