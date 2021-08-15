@@ -18,6 +18,25 @@
 <img align="left" alt="STYLED"   src="https://raw.githubusercontent.com/verst-ant/verst-ant/master/icons/styled.png" />
 </div>
 
+### Project examples:
+
+<details>
+  <summary>✅ <b>Freebie-Agency </b> </summary>
+  <br/>
+  <a href="https://github.com/verst-ant/Agency">📘<b>  Repository Link </b></a>
+  <br/>
+  <a href="https://verst-ant.github.io/Agency/">👩‍🚀 <b> Github pages </b></a>
+  <br/>
+  <a href="https://www.figma.com/file/fn7TA4MCrTj7Ad2dAPja7Q/Freebie-Agency?node-id=0%3A1">📃 <b> Design layout </b></a>
+  <br/>
+  <br/>
+  Working moments: 
+  3 sliders (Swiper) 
+  Adaptive Grid (5/11) 
+  Image gallery with filter
+  <br/>
+
+</details>
 
 [telegram]: https://t.me/verstantJob
 [mail]: mailto:verstantJob@gmail.com
