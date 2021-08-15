@@ -33,7 +33,7 @@
   <a href="https://www.figma.com/file/fn7TA4MCrTj7Ad2dAPja7Q/Freebie-Agency?node-id=0%3A1">📃 <b> Design layout </b></a>
   <br/>
   <br/>
-  *Working moments:*
+  **Working moments:**
     <br/>
     3 sliders (Swiper)
     <br/>
