@@ -33,7 +33,7 @@
   <a href="https://www.figma.com/file/1PGSbfvK9aqGqMlN1utBRD/Figma---eCommerce-template?node-id=2%3A1713">📃 <b>Figma design layout </b></a>
   <br/>
   <br/>
-  Working moments:
+ ####Working moments:
     <br/>
     Modal busket
     <br/>
@@ -41,7 +41,29 @@
     <br/>
     Product card
     <br/>
-    JS: menu, busket, select, btns, tags
+    JS actions: menu, busket, select, btns, tags
+  <br/>
+
+</details>
+<details>
+  <summary>✅ <b>Freshnesecom-Categories</b> </summary>
+  <br/>
+  <a href="https://github.com/verst-ant/Freshnesecom-Categories">📘<b>  Repository Link </b></a>
+  <br/>
+  <a href="https://verst-ant.github.io/Freshnesecom-Categories/">📙 <b> Github pages </b></a>
+  <br/>
+  <a href="https://www.figma.com/file/1PGSbfvK9aqGqMlN1utBRD/Figma---eCommerce-template?node-id=2%3A1713">📃 <b>Figma design layout </b></a>
+  <br/>
+  <br/>
+ ####Working moments:
+    <br/>
+    Modal busket
+    <br/>
+    Filter products
+    <br/>
+    View product card (Grid/List)
+    <br/>
+    JS actions: tag, filter btn, view cards(grid/list), resize view cards
   <br/>
 
 </details>
