@@ -1,10 +1,6 @@
 ### Hello, My name is Sasha, and i'm a Frontend Developer! 👋
 *Here you can find what technologies I use, my projects and test assignments completed by me.*
-### Connect with me:
 
-
-[<img align="left" alt="verst-ant | Telegramm" src="https://raw.githubusercontent.com/verst-ant/verst-ant/master/icons/tele.png" />][telegram]
-[<img alt="verst-ant | Gmail" src="https://raw.githubusercontent.com/verst-ant/verst-ant/master/icons/gmail.png" />][mail]
 ### Languages and Tools:
 
 <div>
@@ -33,7 +29,7 @@
   <a href="https://www.figma.com/file/1PGSbfvK9aqGqMlN1utBRD/Figma---eCommerce-template?node-id=2%3A1713">📃 <b>Figma design layout </b></a>
   <br/>
   <br/>
- ####Working moments:
+ *** Working moments:
     <br/>
     Modal busket
     <br/>
@@ -55,7 +51,7 @@
   <a href="https://www.figma.com/file/1PGSbfvK9aqGqMlN1utBRD/Figma---eCommerce-template?node-id=2%3A1713">📃 <b>Figma design layout </b></a>
   <br/>
   <br/>
- ####Working moments:
+ **** Working moments:
     <br/>
     Modal busket
     <br/>
@@ -87,6 +83,11 @@
   <br/>
 
 </details>
+### Connect with me:
+
+
+[<img align="left" alt="verst-ant | Telegramm" src="https://raw.githubusercontent.com/verst-ant/verst-ant/master/icons/tele.png" />][telegram]
+[<img alt="verst-ant | Gmail" src="https://raw.githubusercontent.com/verst-ant/verst-ant/master/icons/gmail.png" />][mail]
   <br/>
   <br/>
 
