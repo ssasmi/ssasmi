@@ -24,13 +24,35 @@
 ### Project examples:
 
 <details>
+  <summary>✅ <b>Freshnesecom-Homepage</b> </summary>
+  <br/>
+  <a href="https://github.com/verst-ant/Freshnesecom-Homepage">📘<b>  Repository Link </b></a>
+  <br/>
+  <a href="https://verst-ant.github.io/Freshnesecom-Homepage/">📙 <b> Github pages </b></a>
+  <br/>
+  <a href="https://www.figma.com/file/1PGSbfvK9aqGqMlN1utBRD/Figma---eCommerce-template?node-id=2%3A1713">📃 <b>Figma design layout </b></a>
+  <br/>
+  <br/>
+  Working moments:
+    <br/>
+    Modal busket
+    <br/>
+    Slider (Swiper)
+    <br/>
+    Product card
+    <br/>
+    JS: menu, busket, select, btns, tags
+  <br/>
+
+</details>
+<details>
   <summary>✅ <b>Freebie-Agency </b> </summary>
   <br/>
   <a href="https://github.com/verst-ant/Agency">📘<b>  Repository Link </b></a>
   <br/>
   <a href="https://verst-ant.github.io/Agency/">📙 <b> Github pages </b></a>
   <br/>
-  <a href="https://www.figma.com/file/fn7TA4MCrTj7Ad2dAPja7Q/Freebie-Agency?node-id=0%3A1">📃 <b> Design layout </b></a>
+  <a href="https://www.figma.com/file/fn7TA4MCrTj7Ad2dAPja7Q/Freebie-Agency?node-id=0%3A1">📃 <b>Figma design layout </b></a>
   <br/>
   <br/>
   Working moments:
@@ -43,8 +65,6 @@
   <br/>
 
 </details>
-  <br/>
-  <br/>
   <br/>
   <br/>
 
