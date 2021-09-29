@@ -51,7 +51,7 @@
   <a href="https://www.figma.com/file/1PGSbfvK9aqGqMlN1utBRD/Figma---eCommerce-template?node-id=2%3A1713">📃 <b>Figma design layout </b></a>
   <br/>
   <br/>
- **** Working moments:
+ **Working moments**:
     <br/>
     Modal busket
     <br/>
@@ -73,7 +73,7 @@
   <a href="https://www.figma.com/file/fn7TA4MCrTj7Ad2dAPja7Q/Freebie-Agency?node-id=0%3A1">📃 <b>Figma design layout </b></a>
   <br/>
   <br/>
-  Working moments:
+  *Working moments*:
     <br/>
     3 sliders (Swiper)
     <br/>
@@ -83,13 +83,14 @@
   <br/>
 
 </details>
+<br/>
+<br/>
+
 ### Connect with me:
 
 
 [<img align="left" alt="verst-ant | Telegramm" src="https://raw.githubusercontent.com/verst-ant/verst-ant/master/icons/tele.png" />][telegram]
 [<img alt="verst-ant | Gmail" src="https://raw.githubusercontent.com/verst-ant/verst-ant/master/icons/gmail.png" />][mail]
-  <br/>
-  <br/>
-
+  
 [telegram]: https://t.me/verstantJob
 [mail]: mailto:verstantJob@gmail.com
