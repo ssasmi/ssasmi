@@ -29,11 +29,11 @@
   <a href="https://www.figma.com/file/1PGSbfvK9aqGqMlN1utBRD/Figma---eCommerce-template?node-id=2%3A1713">📃 <b>Figma design layout </b></a>
   <br/>
   <br/>
- *** Working moments:
+ ###### Working moments:
     <br/>
-    Modal busket
+    - [x] Modal busket
     <br/>
-    Slider (Swiper)
+    - [x] Slider (Swiper)
     <br/>
     Product card
     <br/>
@@ -83,8 +83,6 @@
   <br/>
 
 </details>
-<br/>
-<br/>
 
 ### Connect with me:
 
