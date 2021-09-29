@@ -83,6 +83,7 @@
   <br/>
 
 </details>
+![vcss-blue](https://user-images.githubusercontent.com/4318849/135182427-577ea4a8-cf10-4557-976d-0c2b786a7747.gif)
 <br/>
 
 ### Connect with me:
@@ -91,7 +92,6 @@
 [<img align="left" alt="verst-ant | Telegramm" src="https://raw.githubusercontent.com/verst-ant/verst-ant/master/icons/tele.png" />][telegram]
 [<img alt="verst-ant | Gmail" src="https://raw.githubusercontent.com/verst-ant/verst-ant/master/icons/gmail.png" />][mail]
 
-![vcss-blue](https://user-images.githubusercontent.com/4318849/135182427-577ea4a8-cf10-4557-976d-0c2b786a7747.gif)
 
 [telegram]: https://t.me/verstantJob
 [mail]: mailto:verstantJob@gmail.com
