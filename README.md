@@ -29,15 +29,15 @@
   <a href="https://www.figma.com/file/1PGSbfvK9aqGqMlN1utBRD/Figma---eCommerce-template?node-id=2%3A1713">📃 <b>Figma design layout </b></a>
   <br/>
   <br/>
- ***Working moments:***
+  Working moments:
     <br/>
-    - [x] Modal busket
+    - Modal busket
     <br/>
-    - [x] Slider (Swiper)
+    - Slider (Swiper)
     <br/>
-    Product card
+    - Product card
     <br/>
-    JS actions: menu, busket, select, btns, tags
+    - JS (menu, busket, select, btns, tags)
   <br/>
 
 </details>
@@ -51,15 +51,15 @@
   <a href="https://www.figma.com/file/1PGSbfvK9aqGqMlN1utBRD/Figma---eCommerce-template?node-id=2%3A1713">📃 <b>Figma design layout </b></a>
   <br/>
   <br/>
- **Working moments**:
+  Working moments:
     <br/>
-    Modal busket
+    - Modal busket
     <br/>
-    Filter products
+    - Filter products
     <br/>
-    View product card (Grid/List)
+    - View product card (Grid/List)
     <br/>
-    JS actions: tag, filter btn, view cards(grid/list), resize view cards
+    - JS (tag, filter btn, view cards(grid/list), resize view cards)
   <br/>
 
 </details>
@@ -73,13 +73,13 @@
   <a href="https://www.figma.com/file/fn7TA4MCrTj7Ad2dAPja7Q/Freebie-Agency?node-id=0%3A1">📃 <b>Figma design layout </b></a>
   <br/>
   <br/>
-  *Working moments*:
+    Working moments:
     <br/>
-    3 sliders (Swiper)
+    - 3 sliders (Swiper)
     <br/>
-    Adaptive Grid (5/11)
+    - Adaptive Grid (5/11)
     <br/>
-    Image gallery with filter
+    - JS (Image gallery with filter)
   <br/>
 
 </details>
@@ -90,6 +90,8 @@
 
 [<img align="left" alt="verst-ant | Telegramm" src="https://raw.githubusercontent.com/verst-ant/verst-ant/master/icons/tele.png" />][telegram]
 [<img alt="verst-ant | Gmail" src="https://raw.githubusercontent.com/verst-ant/verst-ant/master/icons/gmail.png" />][mail]
-  
+
+![vcss-blue](https://user-images.githubusercontent.com/4318849/135182427-577ea4a8-cf10-4557-976d-0c2b786a7747.gif)
+
 [telegram]: https://t.me/verstantJob
 [mail]: mailto:verstantJob@gmail.com
