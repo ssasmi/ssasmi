@@ -29,7 +29,7 @@
   <a href="https://www.figma.com/file/1PGSbfvK9aqGqMlN1utBRD/Figma---eCommerce-template?node-id=2%3A1713">📃 <b>Figma design layout </b></a>
   <br/>
   <br/>
- ###### Working moments:
+ ***Working moments:***
     <br/>
     - [x] Modal busket
     <br/>
@@ -83,6 +83,7 @@
   <br/>
 
 </details>
+<br/>
 
 ### Connect with me:
 
