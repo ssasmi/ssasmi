@@ -20,6 +20,26 @@
 ### Project examples:
 
 <details>
+  <summary>✅ <b>Deliver</b> </summary>
+  <br/>
+  <a href="https://github.com/verst-ant/Deliver">📘<b>  Repository Link </b></a>
+  <br/>
+  <a href="https://verst-ant.github.io/Deliver">📙 <b> Github pages </b></a>
+  <br/>
+  <a href="https://www.figma.com/file/3oYFaAlH39uzv7eFRaFpnZ/Deliver-Saas-landing-page-Community?node-id=13%3A357">📃 <b>Figma design layout </b></a>
+  <br/>
+  <br/>
+  Working moments:
+    <br/>
+    - Columns, list, tabs, spollers 
+    <br/>
+    - Slider (Swiper), gallery
+    <br/>
+    - Form Contacts
+  <br/>
+
+</details>
+<details>
   <summary>✅ <b>Freshnesecom-Homepage</b> </summary>
   <br/>
   <a href="https://github.com/verst-ant/Freshnesecom-Homepage">📘<b>  Repository Link </b></a>
@@ -59,7 +79,7 @@
     <br/>
     - View product card (Grid/List)
     <br/>
-    - JS (tag, filter btn, view cards(grid/list), resize view cards)
+    - JS (tag, filter btn, view cards(grid vs list), resize view cards)
   <br/>
 
 </details>
@@ -79,7 +99,7 @@
     <br/>
     - Adaptive Grid (5/11)
     <br/>
-    - JS (Image gallery with filter)
+    - JS (image gallery with filter)
   <br/>
 
 </details>
