@@ -103,6 +103,15 @@
   <br/>
 
 </details>
+<details>
+  <summary>✅ <b>Food-mania </b> </summary>
+  <br/>
+  <a href="https://github.com/verst-ant/Food-mania">📘<b>  Repository Link </b></a>
+  <br/>
+  <a href="https://verst-ant.github.io/Food-mania/">📙 <b> Github pages </b></a>
+  <br/>
+
+</details>
 
 ![vcss-blue](https://user-images.githubusercontent.com/4318849/135182427-577ea4a8-cf10-4557-976d-0c2b786a7747.gif)
 <br/>
