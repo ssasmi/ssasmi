@@ -22,9 +22,9 @@
 <details>
   <summary>✅ <b>Deliver</b> </summary>
   <br/>
-  <a href="https://github.com/verst-ant/Deliver">📘<b>  Repository Link </b></a>
+  <a href="https://github.com/ssasmi/Deliver">📘<b>  Repository Link </b></a>
   <br/>
-  <a href="https://verst-ant.github.io/Deliver">📙 <b> Github pages </b></a>
+  <a href="https://ssasmi.github.io/Deliver">📙 <b> Github pages </b></a>
   <br/>
   <a href="https://www.figma.com/file/3oYFaAlH39uzv7eFRaFpnZ/Deliver-Saas-landing-page-Community?node-id=13%3A357">📃 <b>Figma design layout </b></a>
   <br/>
@@ -42,9 +42,9 @@
 <details>
   <summary>✅ <b>Freshnesecom-Homepage</b> </summary>
   <br/>
-  <a href="https://github.com/verst-ant/Freshnesecom-Homepage">📘<b>  Repository Link </b></a>
+  <a href="https://github.com/ssasmi/Freshnesecom-Homepage">📘<b>  Repository Link </b></a>
   <br/>
-  <a href="https://verst-ant.github.io/Freshnesecom-Homepage/">📙 <b> Github pages </b></a>
+  <a href="https://ssasmi.github.io/Freshnesecom-Homepage/">📙 <b> Github pages </b></a>
   <br/>
   <a href="https://www.figma.com/file/1PGSbfvK9aqGqMlN1utBRD/Figma---eCommerce-template?node-id=2%3A1713">📃 <b>Figma design layout </b></a>
   <br/>
@@ -64,9 +64,9 @@
 <details>
   <summary>✅ <b>Freshnesecom-Categories</b> </summary>
   <br/>
-  <a href="https://github.com/verst-ant/Freshnesecom-Categories">📘<b>  Repository Link </b></a>
+  <a href="https://github.com/ssasmi/Freshnesecom-Categories">📘<b>  Repository Link </b></a>
   <br/>
-  <a href="https://verst-ant.github.io/Freshnesecom-Categories/">📙 <b> Github pages </b></a>
+  <a href="https://ssasmi.github.io/Freshnesecom-Categories/">📙 <b> Github pages </b></a>
   <br/>
   <a href="https://www.figma.com/file/1PGSbfvK9aqGqMlN1utBRD/Figma---eCommerce-template?node-id=2%3A1713">📃 <b>Figma design layout </b></a>
   <br/>
@@ -86,9 +86,9 @@
 <details>
   <summary>✅ <b>Freebie-Agency </b> </summary>
   <br/>
-  <a href="https://github.com/verst-ant/Agency">📘<b>  Repository Link </b></a>
+  <a href="https://github.com/ssasmi/Agency">📘<b>  Repository Link </b></a>
   <br/>
-  <a href="https://verst-ant.github.io/Agency/">📙 <b> Github pages </b></a>
+  <a href="https://ssasmi.github.io/Agency/">📙 <b> Github pages </b></a>
   <br/>
   <a href="https://www.figma.com/file/fn7TA4MCrTj7Ad2dAPja7Q/Freebie-Agency?node-id=0%3A1">📃 <b>Figma design layout </b></a>
   <br/>
@@ -106,9 +106,9 @@
 <details>
   <summary>✅ <b>Food-mania </b> </summary>
   <br/>
-  <a href="https://github.com/verst-ant/Food-mania">📘<b>  Repository Link </b></a>
+  <a href="https://github.com/ssasmi/Food-mania">📘<b>  Repository Link </b></a>
   <br/>
-  <a href="https://verst-ant.github.io/Food-mania/">📙 <b> Github pages </b></a>
+  <a href="https://ssasmi.github.io/Food-mania/">📙 <b> Github pages </b></a>
   <br/>
 
 </details>
@@ -119,8 +119,8 @@
 ### Connect with me:
 
 
-[<img align="left" alt="verst-ant | Telegramm" src="https://raw.githubusercontent.com/verst-ant/verst-ant/master/icons/tele.png" />][telegram]
-[<img alt="verst-ant | Gmail" src="https://raw.githubusercontent.com/verst-ant/verst-ant/master/icons/gmail.png" />][mail]
+[<img align="left" alt="ssasmi | Telegramm" src="https://raw.githubusercontent.com/ssasmi/ssasmi/master/icons/tele.png" />][telegram]
+[<img alt="ssasmi | Gmail" src="https://raw.githubusercontent.com/ssasmi/ssasmi/master/icons/gmail.png" />][mail]
 
 
 [telegram]: https://t.me/verstantJob
